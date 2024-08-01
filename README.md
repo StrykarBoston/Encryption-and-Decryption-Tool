@@ -7,8 +7,8 @@ This Python-based tool is a straightforward but powerful encryption and decrypt
 
 # Features
 
-- Encrypt Files: Securely encrypt any file using Triple DES (3DES) encryption.
-- Decrypt Files: Decrypt previously encrypted files.
+- Encrypt Files and Text Messages : Securely encrypt any file and Text Messages using Triple DES (3DES) encryption.
+- Decrypt Files and Text Messages : Decrypt previously encrypted files and Text Messages .
 - User-friendly GUI: Easy-to-use interface for selecting files and entering encryption keys.
 
 <br>
